@@ -41,3 +41,15 @@ p {
 ul {
     font-family: "Raleway", sans-serif;
 }
+
+#information p {
+    color: whitesmoke;
+}
+
+#preferences ul {
+    color: whitesmoke;
+}
+
+#volunteer_action ul {
+    color: whitesmoke;
+}
