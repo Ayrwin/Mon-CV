@@ -22,3 +22,8 @@ img {
     border-radius: 50%;
     box-shadow: 0 0 30px purple;
 }
+
+address {
+    display: flex;
+    justify-content: space-between;
+}
