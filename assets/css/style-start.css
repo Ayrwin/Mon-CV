@@ -9,6 +9,18 @@ address{
     background-color: #2c1d27;
 }
 
+#experiences {
+    background-color: white;
+}
+
+#formations {
+    background-color: white;
+}
+
+#skills {
+    background-color: white;
+}
+
 h2 {
     background-color: #dbc2a4;
     font-family: "Lato", sans-serif;
